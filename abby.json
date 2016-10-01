@@ -1,10 +1,10 @@
 {
-    "firstName":"Abby",
+    "firstName":"Abigail",
     "lastName":"Brooks",
     "age":16,
     "picture": "http://img05.deviantart.net/6c11/i/2016/110/a/3/new_twenty_one_pilots_logo_____by_fieldsofdaisies-d9zlea7.png",
     "nickNames": [
-        {"nick": "Abs"},
-        {"nick": "Abbles"}
+        {"nick": "Abby"},
+        {"nick": "Abs"}
     ]
 }
